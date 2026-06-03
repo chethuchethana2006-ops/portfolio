@@ -18,6 +18,12 @@ This portfolio website showcases my skills, projects, and contact information.
 - CSS
 - JavaScript
 
+## Tools Used
+
+- Git
+- GitHub
+- VS Code
+  
   ## Internship
 ApexPlanet Full Stack Web Development Internship - Task 1
 
@@ -29,4 +35,4 @@ https://github.com/chethuchethana2006-ops/portfolio
 
 ## Author
 
-Chethana
+Chethana M M
