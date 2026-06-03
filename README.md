@@ -9,6 +9,10 @@ This is my personal portfolio website created as part of the ApexPlanet Full Sta
 - Projects Section
 - Contact Section
 
+## Project Purpose
+
+This portfolio website showcases my skills, projects, and contact information.
+
 ## Technologies Used
 - HTML
 - CSS
