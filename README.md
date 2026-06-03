@@ -40,3 +40,13 @@ Chethana M M
 ## Deployment
 
 This project is deployed using GitHub Pages.
+
+## Future Improvements
+
+- Add more projects
+- Improve UI design
+- Add a downloadable resume
+
+## Status
+
+Task 1 completed successfully as part of the ApexPlanet Full Stack Web Development Internship.
