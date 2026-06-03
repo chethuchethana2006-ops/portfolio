@@ -14,6 +14,9 @@ This is my personal portfolio website created as part of the ApexPlanet Full Sta
 - CSS
 - JavaScript
 
+  ## Internship
+ApexPlanet Full Stack Web Development Internship - Task 1
+
 ## Live Website
 https://chethuchethana2006-ops.github.io/portfolio/
 
