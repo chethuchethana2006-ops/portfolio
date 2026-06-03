@@ -22,3 +22,7 @@ https://chethuchethana2006-ops.github.io/portfolio/
 
 ## GitHub Repository
 https://github.com/chethuchethana2006-ops/portfolio
+
+## Author
+
+Chethana
