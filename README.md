@@ -23,8 +23,8 @@ This portfolio website showcases my skills, projects, and contact information.
 - Git
 - GitHub
 - VS Code
-  
-  ## Internship
+
+## Internship
 ApexPlanet Full Stack Web Development Internship - Task 1
 
 ## Live Website
@@ -36,3 +36,7 @@ https://github.com/chethuchethana2006-ops/portfolio
 ## Author
 
 Chethana M M
+
+## Deployment
+
+This project is deployed using GitHub Pages.
