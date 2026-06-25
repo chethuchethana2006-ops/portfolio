@@ -32,7 +32,7 @@ https://chethuchethana2006-ops.github.io/portfolio/
 
 ## 📄 Resume
 
-Download the resume directly from the portfolio website.
+[Download Resume](assets/resume.pdf)
 
 ## 📫 Contact
 
