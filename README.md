@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website.
 
-This portfolio showcases my skills, projects, certifications, and resume as a Computer Science and Engineering student.
+This portfolio showcases my projects, technical skills, certifications, and resume. It reflects my learning journey as a Computer Science and Engineering student.
 
 ## 🚀 Live Portfolio
 
