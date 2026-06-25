@@ -1,52 +1,49 @@
-# Portfolio Website
+# 🌐 Chethana M M - Portfolio
 
-This is my personal portfolio website created as part of the ApexPlanet Full Stack Web Development Internship.
+Welcome to my personal portfolio website.
 
-## Features
-- Responsive Design
-- About Me Section
-- Skills Section
-- Projects Section
-- Contact Section
+This portfolio showcases my skills, projects, certifications, and resume as a Computer Science and Engineering student.
 
-## Project Purpose
+## 🚀 Live Portfolio
 
-This portfolio website showcases my skills, projects, and contact information.
+https://chethuchethana2006-ops.github.io/portfolio/
 
-## Technologies Used
-- HTML
-- CSS
+## 👩‍💻 About Me
+
+- B.Tech Computer Science & Engineering Student
+- Passionate about Software Development and AI
+- Interested in Web Development, Java, Python, and Machine Learning
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
 - JavaScript
-
-## Tools Used
-
 - Git
 - GitHub
 - VS Code
 
-## Internship
-ApexPlanet Full Stack Web Development Internship - Task 1
+## 📂 Featured Projects
 
-## Live Website
-https://chethuchethana2006-ops.github.io/portfolio/
+- SaveWise – Java Swing Savings Goal Tracker
+- ProjectPilot AI (Ongoing)
+- Password Generator (Python)
+- MTR Sweets Website
 
-## GitHub Repository
-https://github.com/chethuchethana2006-ops/portfolio
+## 📄 Resume
 
-## Author
+Download the resume directly from the portfolio website.
 
-Chethana M M
+## 📫 Contact
 
-## Deployment
+Email: chethuchethana2006@gmail.com
 
-This project is deployed using GitHub Pages.
+GitHub:
+https://github.com/chethuchethana2006-ops
 
-## Future Improvements
+LinkedIn:
+https://linkedin.com/in/chethana-m-m-03bb10330
 
-- Add more projects
-- Improve UI design
-- Add a downloadable resume
+---
 
-## Status
-
-Task 1 completed successfully as part of the ApexPlanet Full Stack Web Development Internship.
+⭐ Thank you for visiting my portfolio!
